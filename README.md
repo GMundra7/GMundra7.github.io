@@ -19,7 +19,7 @@ Personal blog and portfolio site built with Hugo, featuring optimized images and
 
 ## First-Time Setup
 
-### 1. Clone the repository with submodules
+### 1. Clone the repository with submodules.
 
 ```bash
 git clone --recurse-submodules https://github.com/akcube/akcube.github.io.git
