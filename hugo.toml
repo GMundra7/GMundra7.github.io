@@ -1,11 +1,11 @@
-baseURL = 'https://dtu1141b.github.io/'
+baseURL = 'https://gmundra7.github.io/'
 languageCode = 'en-us'
-title = 'Dhaval Bothra'
+title = 'Girish Mundra'
 enableRobotsTXT = true
 theme = 'obsidian-hugo-texify3'
 
 [author]
-    name = "Kishore Kumar"
+    name = "Girish Mundra"
 
 [taxonomies]
   topics = "topics"
@@ -28,9 +28,9 @@ defaultMarkdownHandler = "goldmark"
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)'], ['$', '$']]
 [params]
-  title = "Dhaval Bothra"
+  title = "Girish Mundra"
   description = "If we keep holding onto yesterday, what are we going to be tomorrow?"
-  keywords = ["dhaval", "bothra", "dtu1141b", "bits", "bits-pilani", "iiit-h", "birla institute of technology and science, pilani", "ICPC", "competitive programming", "optimization", "performance", "algorithms", "finance", "math", "c++", "cpp", "research", "quant", "finance", "ml", "deep learning", "reinforcement learning", "theory"]
+  keywords = ["girish", "mundra", "gmundra", "bits", "bits-pilani", "gmundra7", "birla institute of technology and science, pilani", "ICPC", "competitive programming", "optimization", "performance", "algorithms", "finance", "math", "c++", "cpp", "research", "quant", "finance", "ml", "deep learning", "reinforcement learning", "theory"]
   customCSS = ["css/images.css"]
   customJS = [
     "https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js",
@@ -51,13 +51,9 @@ defaultMarkdownHandler = "goldmark"
 
 
   [params.sharingbuttons]
-    facebook = true
-    twitter = true
     email = true
     linkedin = true
-    reddit = true
     whatsapp = true
-    hackernews = true
     telegram = true
 
 
